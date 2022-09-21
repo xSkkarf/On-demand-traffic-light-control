@@ -17,7 +17,7 @@ There is a special response for the pedestrian mode for every phase, depending o
 4) if pressed in (phase_4) it skips cars blinking yellow light remaining wait time and returns back to phase_2.
 • Then, it turns back the program to (phase_2), reversing the flow of the cars light from (yellow to green) to (yellow to red) again.
 
-- System flowchart
+- System flowchart:
 
 ![System_flowchart_page-0001](https://user-images.githubusercontent.com/113522732/190506287-910849ae-55ac-4db3-8c99-278d44ac5d68.jpg)
 
